@@ -1,0 +1,104 @@
+
+
+
+
+
+.outer{
+  border-width: 5px ;
+  border-style: solid;
+  border-radius: 12px;
+  margin-left: 550px;
+  margin-right: 580px;
+  margin-top: 100px;
+  padding: 20px;
+  background-color: rgb(218, 213, 213);
+}
+input{
+  width: 300px;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;
+  background-color: ffff;
+  justify-content: flex-start;
+  display: flex;
+}
+ .outer button{
+  margin: 20px;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: azure;
+  box-shadow: inset yellowgreen;
+}
+
+.quiz-box{
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-right: 500px;
+  border-style:solid ;
+  background-color: aqua;
+  padding: 20px;
+  border-radius: 5px;
+}
+.quiz-qsn button{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  margin: 10px;
+  padding: 5px;
+  width: 295px;
+  border-radius: 12px;
+  font-size: larger;
+}
+.quiz-box p{
+  border-style: solid;
+  font-size: x-large;
+border-radius: 8px;
+background-color: azure;
+padding: 5px;
+}
+
+.weather{
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-right: 500px;
+  border-style:solid ;
+  background-color:papayawhip;
+  padding: 20px;
+  border-radius: 5px;
+}
+.searchsuggestion{
+  padding: 0px;
+  width: 340px;
+  background: #f2eaea;
+  border-radius: 12px;
+  margin: 0px;
+}
+li{
+  padding: 2px;
+}
+.photoclick{
+  width: 200px;
+  padding: 0px;
+  position: static;
+  display: inline-block;
+  cursor: pointer;
+}
+img{
+  padding: 2px;
+  
+}
+p{
+  padding: 2px;
+  position: relative;
+}
+.images{
+   padding: 0px;
+  width: max-content;
+  background: #dee5e7fc;
+  border-radius: 12px;
+  margin: 0px;
+  margin-top: 0px;
+  position: absolute;
+}
+

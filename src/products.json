@@ -1,0 +1,20 @@
+[
+    {
+        "type":"pant",
+        "name":"pant 1",
+        "img":"./sunlight.jpg",
+        "price":"1500"
+    },
+    {
+        "type":"pant",
+        "name":"pant 2",
+        "img":"./sunlight.jpg",
+        "price":"1900"
+    },
+    {
+        "type":"pant",
+        "name":"pant 3",
+        "img":"./sunlight.jpg",
+        "price":"1000"
+    }
+]
