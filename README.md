@@ -6,7 +6,7 @@ This React app contain multiple mini-projects.
 - **Stopwatch** – Timer/stopwatch application.
 - **Todo** – Task manager app.
 - **Weather App** – Fetches live weather data from API.
-## inprogress/incomplete projects
--**Cricket** - ask info before cricket game start like (team name, toss winner.....).
--**Cricsc** - start first inning.
--**Secondinning**- start second inning.
+## 🔧 In Progress / Incomplete Projects
+- **Cricket** – Ask info before cricket game starts (team name, toss winner, etc.)
+- **CricSc** – Start first inning.
+- **SecondInning** – Start second inning.
